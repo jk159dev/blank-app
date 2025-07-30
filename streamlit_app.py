@@ -52,7 +52,7 @@ if 'list_files' not in st.session_state:
 description = """Título do Projeto, Objetivo do Projeto, Introdução, Justificativa, Revisão da Literatura,
                 Metodologia, Cronograma, Orçamento, Resultados Esperados, Impacto Potencial, Referências,"""
 
-st.title("Demo App")
+st.title("Kadabra App")
 st.write("Este aplicativo realiza a avaliação automática de documentos e oferece sugestões personalizadas para aprimoramento.")
 st.write("Você pode fazer upload de um arquivo .txt com a seguinte estrutura:")
 st.write(description)
