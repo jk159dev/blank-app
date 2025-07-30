@@ -1,0 +1,11 @@
+strings_to_search = ["Título do Projeto:",
+                    "Objetivo do Projeto:",
+                    "Introdução:",
+                    "Justificativa:",
+                    "Revisão da Literatura:",
+                    "Metodologia:",
+                    "Cronograma:",
+                    "Orçamento:",
+                    "Resultados Esperados:",
+                    "Impacto Potencial:",
+                    "Referências:", ]
